@@ -26,7 +26,7 @@ O projeto foi desenvolvido com foco em simplicidade, usabilidade e aprendizado p
 
 ## 🖼️ Preview do Projeto
 
-![FluentGO Preview](./img/preview.png)
+![FluentGO Preview](./IMG/preview.png)
 
 ---
 
